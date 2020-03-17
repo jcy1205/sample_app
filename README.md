@@ -5,6 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
+# Ruby on Rails Tutorial sample application
+
+This is the sample application for [*Ruby on Rails Tutorial:
+Learn Web Development with Rails*] (https://www.railstutorial.org/)
+
+
 * Ruby version
 
 * System dependencies
